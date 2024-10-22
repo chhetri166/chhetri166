@@ -1,7 +1,11 @@
 It's me chhetri 😏
+
 Interested on Coding ...
+
 Learing JS for now 😶
+
 Ig = @chhetri_166 
+
 Fun fact = You should focus on your code rather than my GHub profile 💀
 
 <!---
